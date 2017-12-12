@@ -1,0 +1,40 @@
+.job-section .job-listings li {
+  margin: 0;
+  padding:1.5rem 0;
+  list-style-type: none;
+
+}
+
+.posting-category {
+    text-transform: uppercase;
+    display: inline-block;
+    margin-right: 15px;
+    color:#808080;
+    font-size: 12px;
+    line-height: 1.4;
+}
+
+.job-section .job-listings li h4 {
+    font-size: 1.5rem;
+    line-height: 1.6rem;
+    margin-right: 115px;
+    overflow: hidden;
+    -webkit-transition: color 150ms;
+    -moz-transition: color 150ms;
+    -o-transition: color 150ms;
+    -ms-transition: color 150ms;
+    transition: color 150ms;
+}
+
+.job-section h3.title {
+  color: #808080;
+  font-size: 2rem;
+  line-height: 2.2rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.job-section {
+  margin:2.4rem 0;
+}
